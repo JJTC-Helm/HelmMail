@@ -1,0 +1,2 @@
+# MailCow
+https://mailcow.email
