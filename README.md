@@ -1,2 +1,1 @@
-# MailCow
-https://mailcow.email
+# HelmMail
